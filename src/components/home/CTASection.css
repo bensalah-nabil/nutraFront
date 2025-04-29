@@ -1,0 +1,103 @@
+
+/* CTASection.css */
+.cta-section {
+    padding: 4rem 2rem;
+    text-align: center;
+    background: linear-gradient(135deg, #ffffff 01%, #dd6f2b  100%);
+    border-radius: 12px;
+    margin: 2rem auto;
+    max-width: 1200px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.1);
+    position: relative;
+    overflow: hidden;
+  }
+
+  .cta-section::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle, rgba(255, 83, 3, 0.2) 0%, transparent 70%);
+    transform: rotate(30deg);
+    z-index: 0;
+  }
+  
+  .cta-section h2 {
+    font-size: 3.5rem;
+    font-weight: 7000;
+    color: black;
+    margin-bottom: 1rem;
+    position: relative;
+    z-index: 1;
+  }
+  
+  .cta-section p {
+    font-size: 1.3rem;
+    color: #012701;
+font-family:  serif;
+    max-width: 1024px;
+    margin: 0 auto 2rem;
+    line-height: 1.6;
+    position: relative;
+   
+  }
+  
+  .cta-section button {
+    background-color: #d66d0a;
+    color: white;
+    border: none;
+    padding: 1rem 2.5rem;
+    font-size: 1.1rem;
+    font-weight: 600;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    position: relative;
+    z-index: 1;
+    box-shadow: 0 4px 6px rgba(229, 173, 70, 0.3);
+  }
+  
+  .cta-section button:hover {
+    background-color:  #1f7033;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 12px rgba(82, 81, 80, 0.4);
+  }
+  
+
+  
+  .cta-section button {
+    animation: pulse 2s infinite;
+  }
+  
+  /* Responsive */
+  @media (max-width: 768px) {
+    .cta-section {
+      padding: 3rem 1.5rem;
+    }
+    
+    .cta-section h2 {
+      font-size: 2rem;
+    }
+    
+    .cta-section p {
+      font-size: 1rem;
+    }
+  }
+  
+  @media (max-width: 2048px) {
+    .cta-section {
+      padding: 2rem 1rem;
+      border-radius: 8px;
+    }
+    
+    .cta-section h2 {
+      font-size: 1.8rem;
+    }
+    
+    .cta-section button {
+      padding: 0.8rem 2rem;
+      font-size: 1rem;
+    }
+  }

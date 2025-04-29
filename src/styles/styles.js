@@ -1,0 +1,278 @@
+import { createGlobalStyle } from 'styled-components';
+
+// On importe ici le CSS de base qu'on avait, mais converti en JS pour styled-components
+// Certaines parties sont commentées car elles seront gérées par les composants React Bootstrap
+export default createGlobalStyle`
+ :root {
+    --primary-color: #28a745; /* Couleur verte */
+}
+
+.consultation-hero {
+    background: linear-gradient(rgba(46, 204, 113, 0.8), rgba(23, 162, 184, 0.8)), url('https://images.unsplash.com/photo-1576091160550-2173dba999ef');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 80px 0;
+    margin-bottom: 40px;
+}
+
+.consultation-card {
+    border-radius: 15px;
+    box-shadow: 0 5px 20px rgba(0,0,0,0.08);
+    border: none;
+    margin-bottom: 30px;
+    border-top: 5px solid #2ecc71;
+}
+
+.consultation-section {
+    border-left: 4px solid #17a2b8;
+    padding-left: 20px;
+    margin: 30px 0;
+}
+
+.consultation-icon {
+    color: #17a2b8;
+    font-size: 1.3rem;
+    margin-right: 12px;
+}
+
+.timeline {
+    position: relative;
+    padding-left: 30px;
+}
+
+.timeline::before {
+    content: '';
+    position: absolute;
+    left: 10px;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: #e9ecef;
+}
+
+.timeline-item {
+    position: relative;
+    padding-bottom: 20px;
+}
+
+.timeline-item::before {
+    content: '';
+    position: absolute;
+    left: -30px;
+    top: 3px;
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background: #2ecc71;
+    border: 4px solid #e9ecef;
+}
+
+.btn-consultation {
+    background-color: #17a2b8;
+    color: white;
+}
+.btn-consultation:hover {
+    background-color: #138496;
+    color: white;
+}
+
+.vital-card {
+    border-left: 4px solid #2ecc71;
+}
+
+.prescription-item {
+    background: #f8f9fa;
+    border-radius: 8px;
+    padding: 15px;
+    margin-bottom: 15px;
+}
+
+.hero-section {
+    height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+                url('https://images.unsplash.com/photo-1490645935967-10de6ba17061?ixlib=rb-4.0.3&auto=format&fit=crop&w=2070&q=80') center/cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+}
+
+.feature-icon {
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
+}
+.feature-icon i {
+    color: #dd6f2b !important;
+}
+
+.gallery-item {
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+    border-radius: 10px;
+}
+
+.cta-section {
+    background-color: #f8f9fa;
+    padding: 60px 0;
+}
+
+.bg-dark.text-white.py-4 {
+    background-color: #343a40;
+    color: white;
+}
+
+.form-section {
+    border-left: 4px solid #2ecc71;
+    padding-left: 20px;
+    margin: 30px 0;
+}
+
+.form-icon {
+    color: #2ecc71;
+    font-size: 1.2rem;
+    margin-right: 10px;
+}
+
+.health-card {
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+    border: none;
+    margin-bottom: 30px;
+}
+
+.checkbox-group {
+    column-count: 2;
+}
+@media (max-width: 768px) {
+    .checkbox-group {
+        column-count: 1;
+    }
+}
+
+.btn-nutritrack {
+    background-color: #2ecc71;
+    color: white;
+}
+.btn-nutritrack:hover {
+    background-color: #27ae60;
+    color: white;
+}
+
+.card {
+    border: none;
+    border-radius: 15px;
+    transition: transform 0.3s;
+}
+.card:hover {
+    transform: translateY(-10px);
+}
+
+.bg-success {
+    background-color: var(--primary-color) !important;
+}
+.btn-success {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+.btn-outline-success {
+    color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+.btn-outline-success:hover {
+    background-color: var(--primary-color);
+    color: white;
+}
+
+.feature-title {
+    color: #000000 !important;
+}
+
+.meal-hero {
+    background: linear-gradient(rgba(46, 204, 113, 0.8), rgba(46, 204, 113, 0.6)), url('https://images.unsplash.com/photo-1490645935967-10de6ba17061');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 80px 0;
+    margin-bottom: 40px;
+}
+
+.meal-card {
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+    border: none;
+    transition: transform 0.3s;
+    border-top: 5px solid #2ecc71;
+}
+.meal-card:hover {
+    transform: translateY(-5px);
+}
+
+.meal-icon {
+    color: #2ecc71;
+    font-size: 1.3rem;
+    margin-right: 10px;
+}
+
+.nutri-badge {
+    font-size: 0.75rem;
+    padding: 5px 8px;
+    border-radius: 10px;
+}
+
+.progress-meal {
+    height: 10px;
+    border-radius: 5px;
+}
+
+.meal-tab {
+    border-bottom: 3px solid transparent;
+    padding-bottom: 8px;
+    font-weight: 500;
+    color: #6c757d;
+}
+.meal-tab.active {
+    border-color: #2ecc71;
+    color: #2ecc71;
+}
+
+.ingredient-list {
+    list-style-type: none;
+    padding-left: 0;
+}
+.ingredient-list li {
+    padding: 5px 0;
+    border-bottom: 1px solid #eee;
+}
+
+.btn-meal {
+    background-color: #2ecc71;
+    color: white;
+}
+.btn-meal:hover {
+    background-color: #27ae60;
+    color: white;
+}
+
+.circle-progress {
+    width: 80px;
+    height: 80px;
+}
+body {
+    font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+}
+.chat-body { background-color: #f8f9fa; border-radius: 0 0 0.375rem 0.375rem; }
+.user-message { display: flex; justify-content: flex-end; margin-bottom: 1rem; }
+.user-message .message-content { background-color: #28a745; color: white; border-radius: 1.125rem 1.125rem 0 1.125rem; padding: 0.75rem 1rem; max-width: 70%; }
+.bot-message { display: flex; justify-content: flex-start; margin-bottom: 1rem; }
+.bot-message .message-content { background-color: #f1f1f1; color: #333; border-radius: 1.125rem 1.125rem 1.125rem 0; padding: 0.75rem 1rem; max-width: 70%; }
+.btn-hover-effect { transition: all 0.3s ease; }
+.btn-hover-effect:hover { transform: translateY(-2px); box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); }
+#chat-messages::-webkit-scrollbar { width: 6px; }
+#chat-messages::-webkit-scrollbar-track { background: #f1f1f1; }
+#chat-messages::-webkit-scrollbar-thumb { background: #28a745; border-radius: 3px; }
+@keyframes fadeIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: translateY(0); } }
+.new-message { animation: fadeIn 0.3s ease forwards; }
+`

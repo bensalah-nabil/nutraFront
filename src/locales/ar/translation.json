@@ -1,0 +1,377 @@
+{
+  "herohome": {
+    "title": "متابعتك الغذائية الشخصية",
+    "description": "تحكم في نظامك الغذائي مع نظامنا الذكي لمتابعة التغذية",
+    "startNow": "ابدأ الآن",
+    "learnMore": "معرفة المزيد"
+  },
+  "ctahome": {
+  "cta_title": "هل أنت مستعد لتحسين نظامك الغذائي؟",
+  "cta_description": "انضم إلى آلاف المستخدمين الذين حققوا أهدافهم الغذائية مع NutriTrack.",
+  "cta_button": "أنشئ حسابًا مجانيًا"
+},
+"featureshome":{
+  "features_title": "الميزات الرئيسية",
+  "features_description": "اكتشف كيف يمكن لـ NutriTrack مساعدتك في تحقيق أهدافك الغذائية",
+
+  "feature1_title": "نظام ذكي بالذكاء الاصطناعي",
+  "feature1_text": "يحلل الذكاء الاصطناعي عاداتك ويقترح وجبات مناسبة لاحتياجاتك.",
+
+  "feature2_title": "توليد وجبات",
+  "feature2_text": "أنشئ خطط وجبات مخصصة حسب تفضيلاتك وأهدافك الغذائية.",
+
+  "feature3_title": "متابعة شاملة",
+  "feature3_text": "اعرض سجل وجباتك، تابع تقدمك، وقم بتعديل أهدافك بسهولة."
+},
+"planshome":
+{
+  "plans_title": "خطط غذائية مخصصة",
+  "plans_subtitle": "إختار الخطة اللي تناسب أهدافك",
+  "weight_loss_title": "خسارة الوزن",
+  "weight_loss_text": "خطة مصمّمة باش تعاونك تنقص في وزنك بطريقة صحية ومستدامة.",
+  "weight_loss_features": [
+    "نقص في السعرات الحرارية",
+    "وجبات غنية بالمعادن والفيتامينات",
+    "متابعة مستمرة للتقدّم"
+  ],
+  "maintien_title": "الحفاظ",
+  "maintien_text": "خطة متوازنة باش تحافظ على وزن صحي وتغذية سليمة.",
+  "maintien_features": [
+    "توازن غذائي",
+    "تنوع في الأكل",
+    "مرونة في الإختيار"
+  ],
+  "most_popular": "الأكثر شعبية",
+  "prise_masse_title": "زيادة الوزن",
+  "prise_masse_text": "خطة باش تزيد في الكتلة العضلية عن طريق تغذية عالية في السعرات والبروتينات.",
+  "prise_masse_features": [
+    "سعرات حرارية أكثر",
+    "بروتينات محسوبة",
+    "متابعة للكتلة العضلية"
+  ],
+  "choose_plan": "إختار الخطة"
+},
+  
+  "loginForm": {
+    "email": "البريد الإلكتروني",
+    "password": "كلمة المرور",
+    "remember": "تذكرني",
+    "submit": "تسجيل الدخول"
+  }, 
+  "login": {
+    "title": "تسجيل الدخول",
+    "no_account": "ليس لديك حساب؟",
+  "ar": "تسجيل الدخول",
+  "register": "إنشاء حساب"
+},
+  "features": "الميزات",
+  "plans": "الخطط",
+"register": "إنشاء حساب",
+  "footer": {
+    "plans_title": "خطط غذائية مخصصة",
+    "perte_poids": "خسارة الوزن",
+    "maintien": "الحفاظ على الوزن",
+    "prise_masse": "زيادة الوزن",
+    "brand_name": "NutriTrack",
+    "contact_title": "إتصل بينا",
+    "address": "شارع 6001 قابس تونس",
+    "email_label": "Nutri.Track@gmail.com"
+  },
+    "sectionTitle": "الميزات الرئيسية",
+    "sectionSubtitle": "أدوات قوية لتحقيق أهدافك في فقدان الوزن",
+    "PertePoidsFeatures": [
+      {
+        "icon": "fa-balance-scale",
+        "title": "عجز حراري مضبوط",
+        "text": "خطة تغذية مخصصة مع تتبع ذكي للسعرات الحرارية"
+      },
+      {
+        "icon": "fa-heartbeat",
+        "title": "وجبات غنية بالعناصر الغذائية",
+        "text": "وصفات متوازنة أعدها خبراؤنا في التغذية"
+      },
+      {
+        "icon": "fa-chart-line",
+        "title": "متابعة التقدم",
+        "text": "تطبيق تتبع مع تحليل شامل لنتائجك"
+      }
+    ],
+    "home": "الصفحة الرئيسية",
+    "method": "الطريقة",
+    "gallery": {
+    "title": "استلهم أفكارًا جديدة"
+  },
+    "heroPertePoids": {
+    "title": "حوّل جسمك، وغيّر حياتك",
+    "subtitle": "برنامج مخصص لفقدان الوزن لمدة 12 أسبوعًا",
+    "cta": "ابدأ الآن",
+    "learnMore": "اكتشف المزيد"
+  },
+  "methodePertePoids": {
+    "title": "اكتشف طريقتنا"
+  },
+  
+  "PriseMasse": {
+    "title": "برنامجنا لزيادة الكتلة",
+    "subtitle": "خطط غنية بالبروتينات ومحسّنة لنمو العضلات",
+    "featuresPriseMasse": {
+      "card1": {
+        "title": "زيادة السعرات الحرارية",
+        "text": "وجبات غنية بالسعرات والبروتينات لزيادة فعّالة في الكتلة."
+      },
+      "card2": {
+        "title": "تغذية مثالية",
+        "text": "توازن بين المغذيات الكبرى لتعزيز نمو العضلات."
+      },
+      "card3": {
+        "title": "متابعة مخصصة",
+        "text": "قم بتعديل برنامجك حسب تقدمك وأهدافك."
+      }
+        },
+    "galleryTitle": "استلهم أفكارًا جديدة",
+    "heroTitle": "زد من كتلتك العضلية بكفاءة",
+    "heroSubtitle": "برنامج مخصص لتطوير عضلي مثالي",
+    "startNow": "ابدأ الآن",
+    "learnMore": "معرفة المزيد",
+    "videoTitle": "منهجية التدريب والتغذية"
+  },
+  
+  "Maintien": {
+    "featuresTitle": "ميزات برنامج الحفاظ على الوزن",
+    "featuresSubtitle": "نهج متوازن ومتنوّع ومرن لنمط حياة صحي",
+    "feature1Title": "توازن غذائي",
+    "feature1Text": "وجبات مصممة لتوفير توازن في العناصر الغذائية الأساسية.",
+    "feature2Title": "تنوع في الطعام",
+    "feature2Text": "مجموعة واسعة من الوجبات الشهية لتجنب الملل.",
+    "feature3Title": "مرونة",
+    "feature3Text": "قم بتكييف نظامك الغذائي حسب أسلوب حياتك وتفضيلاتك.",
+    "galleryTitle": "استلهم أفكارًا جديدة",
+    "heroTitle": "حافظ على توازنك الغذائي",
+    "heroDescription": "خطة متوازنة للحفاظ على وزن صحي وتغذية مثالية",
+    "startNow": "ابدأ الآن",
+    "learnMore": "اعرف المزيد",
+    "videoTitle": "منهجية التدريب والتغذية"
+  },
+  "Register":{
+  "id": "المعرف",
+  "idPlaceholder": "اتركه فارغًا إذا تم إنشاؤه تلقائيًا",
+  "nom": "اللقب",
+  "prenom": "الاسم",
+  "email": "البريد الإلكتروني",
+  "motdepasse": "كلمة المرور",
+  "date": "تاريخ الميلاد",
+  "sexe": "الجنس",
+  "sexeOptions": {
+    "choisir": "-- اختر --",
+    "homme": "ذكر",
+    "femme": "أنثى"
+  },
+  "submit": "تسجيل",
+  "title": "إنشاء حساب",
+  "alreadyAccount": "هل لديك حساب بالفعل؟",
+  "loginHere": "سجل الدخول هنا"
+  },
+  "Navigation":{
+    "features": "الميزات",
+    "plans": "خطط التغذية",
+    "login": "تسجيل الدخول",
+    "register": "إنشاء حساب",
+    "home": "الصفحة الرئيسية",
+    "profile": "الملف الشخصي",
+    "journal": "سجل المتابعة",
+    "meals": "الوجبات",
+    "logout": "تسجيل الخروج",
+    "logoutAlert": "تم تأكيد تسجيل الخروج بنجاح"
+},
+"UpdateProfile":{
+    "title": "تغيير كلمة السر",
+    "currentPassword": "كلمة السر الحالية",
+    "newPassword": "كلمة السر الجديدة",
+    "confirmNewPassword": "أكد كلمة السر الجديدة",
+    "submitButton": "سجّل التغييرات",
+    "passwordMismatch": "كلمات السر ماهمش متطابقين.",
+    "updateSuccess": "تبدلت كلمة السر بنجاح !"
+  },
+  "ProfileSidebar": {
+    "editPhoto": "تعديل الصورة",
+    "deletePhoto": "حذف الصورة",
+    "changePassword": "تغيير كلمة المرور",
+    "deleteAccount": "حذف حسابي",
+    "logout": "تسجيل الخروج",
+    "memberSince": "عضو منذ",
+    "logoutAlert": "تم تسجيل الخروج",
+    "confirmDeleteAccount": "هل أنت متأكد أنك تريد حذف حسابك نهائيًا؟",
+    "accountDeleted": "تم حذف الحساب بنجاح.",
+    "accountDeleteFailed": "فشل في حذف الحساب.",
+    "accountDeleteError": "حدث خطأ ما."
+  },
+  "profileTitle": "ملفي الشخصي",
+  "profileSubtitle": "تصرف في معلوماتك وتابع التقدم متاعك.",
+  "personalInfoTitle": "المعلومات الشخصية",
+  "lastName": "اللقب",
+  "firstName": "الاسم",
+  "email": "البريد الإلكتروني",
+  "birthDate": "تاريخ الميلاد",
+  "gender": "الجنس",
+  "height": "الطول",
+  "weight": "الوزن",
+  "bmi": "مؤشر كتلة الجسم",
+  "allergies": "الحساسيات",
+  "medications": "الأدوية",
+  "editInfo": "تعديل معلوماتي",
+  "healthGoalsTitle": "أهداف صحية",
+  "addGoal": "إضافة هدف",
+  "allergiesSection": {
+    "title": "الحساسية الغذائية",
+    "knownAllergies": "الحساسيات المعروفة",
+    "none": "لا يوجد",
+    "allergiesList": {
+      "gluten": "الجلوتين",
+      "lactose": "اللاكتوز",
+      "fruits_coque": "المكسرات",
+      "soja": "الصويا",
+      "œufs": "البيض",
+      "poisson": "السمك",
+      "crustacés": "القشريات"
+    }
+  },
+  "goalsSection": {
+    "title": "الهدف الرئيسي",
+    "selectPlaceholder": "اختر هدفًا...",
+    "options": {
+      "perte_de_poids": "فقدان الوزن",
+      "prise_de_poids": "زيادة الكتلة العضلية",
+      "maintien_de_poids": "الحفاظ على الوزن"
+    }
+  },
+  "healthFormHero": {
+    "title": "ملفي الصحي",
+    "description": "تساعدنا هذه المعلومات على تخصيص توصيات التغذية الخاصة بك"
+  },
+  "healthSection": {
+    "title": "الحالة الصحية",
+    "medicalConditions": "الحالات الطبية",
+    "none": "في حالة جيدة",
+    "conditions": {
+      "diabete": "داء السكري",
+      "hypertension": "ارتفاع ضغط الدم",
+      "cholesterol": "الكوليسترول",
+      "dyspepsie": "عسر الهضم",
+      "cardiaque": "أمراض القلب",
+      "thyroide": "الغدة الدرقية"
+    }
+  },
+  "physicalSection": {
+    "title": "الخصائص الفيزيائية",
+    "age": "العمر",
+    "weight": "الوزن",
+    "height": "الطول ",
+    "kg": "كغ",
+    "cm": "سم"
+  },"formulaireSante": {
+    "saveButton": "حفظ المعلومات",
+    "alertSuccess": "تم حفظ الملف الصحي بنجاح!"
+  },
+  "journalisation": {
+  "titre": "التسجيل الطبي - نصائح صحية",
+  "sousTitre": "متابعة شاملة لصحتك باستخدام NutriTrack",
+  "historique": "سجل الإستشارات الطبية",
+    "item1": "متابعة شهرية - التزام جيد بالنظام الغذائي. مواصلة البرنامج.",
+  "item2": "أول متابعة - تعديل الخطة الغذائية.",
+  "item3": "الاستشارة الأولى - إعداد التقرير الغذائي وتحديد النظام."
+},
+"constantes":{
+  "titre": "القياسات الحيوية",
+  "poids": "الوزن",
+  "imc": "مؤشر كتلة الجسم",
+  "tension": "ضغط الدم",
+  "glycemie": "نسبة السكر",
+  "normal": "طبيعي",
+  "historique": "عرض السجل الكامل"
+},
+  "consultation": {
+    "titre": "الاستشارة المولدة بالذكاء الاصطناعي بتاريخ {{date}}",
+    "status": "مكتملة",
+    "motif": "سبب الاستشارة",
+    "examen": "الفحص السريري",
+    "poids": "الوزن",
+    "tension": "ضغط الدم",
+    "glycemie": "نسبة السكر",
+    "imc": "مؤشر كتلة الجسم",
+    "diagnostic": "التشخيص",
+    "prescription": "الوصفة",
+    "conseils": "نصائح غذائية",
+    "complements": "مكملات غذائية",
+    "rdv": "الموعد القادم",
+    "suivi": "متابعة الذكاء الاصطناعي وتعديل الخطة إذا لزم الأمر",
+    "chargement": "جاري تحميل بيانات الذكاء الاصطناعي..."
+  },
+    "botHeader": {
+    "status": "متصل"
+  },
+  "heroNutribot": {
+    "subtitle": "نصائح شخصية لنظام غذائي صحي ومتوازن"
+  },
+    "Posez votre question...": "اكتب سؤالك هنا...",
+  "Envoyer": "إرسال",
+
+  "iaSuggestion": {
+    "title": "اقتراحات الذكاء الاصطناعي الغذائية",
+    "description": "بناءً على أهدافك وتفضيلاتك، إليك فكرة لعشاء الليلة:",
+    "mealName": "سلمون مشوي مع الهليون والبطاطا الحلوة",
+    "mealInfo": "حوالي 450 سعر حراري | غني بالأوميغا 3 والألياف",
+    "buttons": {
+      "details": "تفاصيل",
+      "addToPlan": "أضف إلى خطتي"
+    }
+  },
+  "NutritionSummary":{
+  "calories": "السعرات الحرارية",
+  "macronutrients": "المغذيات الكبرى",
+  "micronutrients": "المغذيات الدقيقة",
+  "proteins": "البروتينات",
+  "carbs": "الكربوهيدرات",
+  "fats": "الدهون",
+  "fibers": "الألياف",
+  "iron": "الحديد",
+  "calcium": "الكالسيوم",
+  "vitaminD": "فيتامين د",
+  "ajr": "النسبة اليومية",
+  "kcal": "سعر حراري"
+
+},
+
+   "tabs": {
+    "breakfast": "فطور الصباح",
+    "lunch": "الغداء",
+    "dinner": "العشاء",
+    "snacks": "الوجبات الخفيفة"
+  },
+"meals": {
+    "breakfast": "فطور",
+    "lunch": "غداء",
+    "dinner": "عشاء",
+    "snacks": "وجبات خفيفة"
+  },
+  "actions": {
+    "addFood": "أضف عنصرا غذائيا"
+  },
+  "prompt": {
+    "addIngredient": "أدخل اسم العنصر الغذائي لإضافته:"
+  },
+
+  "MealCard": {
+    "edit": "تعديل",
+    "delete": "حذف",
+    "reuse": "إعادة الاستخدام",
+    "ingredients": "المكونات",
+    "notes": "ملاحظات",
+    "time": "الوقت",
+    "warning": "تحذير"
+  },
+  "MealHero": {
+    "title": "وجباتي",
+    "subtitle": "برنامجك الغذائي المخصص لليوم"
+  }
+
+}

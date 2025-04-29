@@ -1,0 +1,397 @@
+{
+  "herohome": {
+    "title": "Votre suivi nutritionnel personnalisé",
+    "description": "Prenez le contrôle de votre alimentation avec notre système intelligent de suivi nutritionnel",
+    "startNow": "Commencer maintenant",
+    "learnMore": "En savoir plus"
+  },
+  "ctahome": {
+    "cta_title": "Prêt à transformer votre alimentation?",
+    "cta_description": "Rejoignez des milliers d'utilisateurs satisfaits qui ont atteint leurs objectifs nutritionnels avec NutriTrack.",
+    "cta_button": "Créer un compte gratuit"
+  },
+  "featureshome": {
+    "features_title": "Fonctionnalités principales",
+    "features_description": "Découvrez comment NutriTrack peut vous aider à atteindre vos objectifs nutritionnels",
+    "feature1_title": "Système IA intelligent",
+    "feature1_text": "Notre intelligence artificielle analyse vos habitudes et vous propose des repas adaptés à vos besoins.",
+    "feature2_title": "Génération de repas",
+    "feature2_text": "Générez des plans de repas personnalisés en fonction de vos préférences et objectifs nutritionnels.",
+    "feature3_title": "Suivi complet",
+    "feature3_text": "Consultez l'historique de vos repas, suivez votre progression et ajustez vos objectifs."
+  },
+  "planshome": {
+    "plans_title": "Plans alimentaires personnalisés",
+    "plans_subtitle": "Choisissez le plan qui correspond à vos objectifs",
+    "weight_loss_title": "Perte de poids",
+    "weight_loss_text": "Plan conçu pour vous aider à atteindre vos objectifs de perte de poids de manière saine et durable.",
+    "weight_loss_features": [
+      "Déficit calorique contrôlé",
+      "Repas riches en nutriments",
+      "Suivi des progrès"
+    ],
+    "maintien_title": "Maintien",
+    "maintien_text": "Plan équilibré pour maintenir un poids santé et une alimentation optimale.",
+    "maintien_features": [
+      "Équilibre nutritionnel",
+      "Variété alimentaire",
+      "Flexibilité"
+    ],
+    "most_popular": "Le plus populaire",
+    "prise_masse_title": "Prise de masse",
+    "prise_masse_text": "Plan pour augmenter la masse musculaire avec un apport calorique et protéique adapté.",
+    "prise_masse_features": [
+      "Surplus calorique",
+      "Protéines optimisées",
+      "Suivi musculaire"
+    ],
+    "choose_plan": "Choisir ce plan"
+  },
+  "loginForm": {
+    "email": "Email",
+    "password": "Mot de passe",
+    "remember": "Se souvenir de moi",
+    "submit": "Se connecter"
+  },
+  "login": {
+    "title": "Connexion",
+    "no_account": "Pas encore de compte ?",
+    "ar": "Se connecter",
+    "register":"Créer un compte"
+  },
+  "features": "Fonctionnalités",
+  "plans": "Plans",
+  "register": "S'inscrire",
+  "footer": {
+    "plans_title": "Plans alimentaires personnalisés",
+    "perte_poids": "Perte de poids",
+    "maintien": "Maintien du poids",
+    "prise_masse": "Prise de masse",
+    "brand_name": "NutriTrack",
+    "contact_title": "Contactez-nous",
+    "address": "Rue 6001 Gabès, Tunisie",
+    "email_label": "Nutri.Track@gmail.com"
+  },
+
+   "sectionTitle": "Fonctionnalités principales",
+    "sectionSubtitle": "Des outils puissants pour atteindre vos objectifs de perte de poids",
+    "PertePoidsFeatures": [
+      {
+        "icon": "fa-balance-scale",
+        "title": "Déficit calorique contrôlé",
+        "text": "Plan nutritionnel personnalisé avec suivi intelligent des calories"
+      },
+      {
+        "icon": "fa-heartbeat",
+        "title": "Repas riches en nutriments",
+        "text": "Recettes équilibrées élaborées par nos nutritionnistes"
+      },
+      {
+        "icon": "fa-chart-line",
+        "title": "Suivi des progrès",
+        "text": "Application de suivi avec analyse complète de vos résultats"
+      }
+    ],
+    "home": "Accueil",
+    "method": "Méthode",
+  "gallery": {
+    "title": "Inspirez-vous"
+  },
+  "heroPertePoids": {
+    "title": "Transformez votre corps, améliorez votre vie",
+    "subtitle": "Programme personnalisé de perte de poids sur 12 semaines",
+    "cta": "Commencer maintenant",
+    "learnMore": "En savoir plus"
+  },
+  "methodePertePoids": {
+    "title": "Découvrez notre méthode"
+  },
+  "PriseMasse": {
+    "title": "Notre programme de prise de masse",
+    "subtitle": "Des plans riches en protéines, optimisés pour la croissance musculaire",
+    "featuresPriseMasse": {
+      "card1": {
+        "title": "Apports Caloriques Accrus",
+        "text": "Des repas riches en calories et protéines pour une prise de masse efficace."
+      },
+      "card2": {
+        "title": "Nutrition Optimale",
+        "text": "Un équilibre entre macronutriments pour maximiser le développement musculaire."
+      },
+      "card3": {
+        "title": "Suivi Personnalisé",
+        "text": "Adaptez votre programme selon vos progrès et vos objectifs."
+      }
+    },
+    "galleryTitle": "Inspirez-vous",
+    "heroTitle": "Prenez de la masse musculaire efficacement",
+    "heroSubtitle": "Programme personnalisé pour un développement musculaire optimal",
+    "startNow": "Commencer maintenant",
+    "learnMore": "En savoir plus",
+    "videoTitle": "Méthodologie d'entraînement et nutrition"
+  },
+  "Maintien": {
+    "featuresTitle": "Fonctionnalités du programme de maintien",
+    "featuresSubtitle": "Une approche équilibrée, variée et flexible pour un mode de vie sain",
+    "feature1Title": "Équilibre nutritionnel",
+    "feature1Text": "Des repas conçus pour un apport équilibré en nutriments essentiels.",
+    "feature2Title": "Variété alimentaire",
+    "feature2Text": "Un large choix de repas savoureux pour éviter la monotonie.",
+    "feature3Title": "Flexibilité",
+    "feature3Text": "Adaptez votre alimentation à votre mode de vie et vos préférences.",
+    "galleryTitle": "Inspirez-vous",
+        "heroTitle": "Maintenez votre équilibre alimentaire",
+    "heroDescription": "Plan équilibré pour maintenir un poids santé et une alimentation optimale",
+    "startNow": "Commencer maintenant",
+    "learnMore": "En savoir plus",
+    "videoTitle": "Méthodologie d'entraînement et nutrition"
+  },
+  "Register":{
+  "id": "ID",
+  "idPlaceholder": "Laisser vide si généré automatiquement",
+  "nom": "Nom",
+  "prenom": "Prénom",
+  "email": "Email",
+  "motdepasse": "Mot de passe",
+  "date": "Date de naissance",
+  "sexe": "Sexe",
+  "sexeOptions": {
+    "choisir": "-- Choisir --",
+    "homme": "Homme",
+    "femme": "Femme"
+  },
+  "submit": "S'inscrir",
+    "title": "Créer un compte",
+  "alreadyAccount": "Vous avez déjà un compte ?",
+  "loginHere": "Connectez-vous ici"
+},
+"Navigation":{
+    "features": "Fonctionnalités",
+    "plans": "Plans alimentaires",
+    "login": "Connexion",
+    "register": "Créer un compte",
+    "home": "Accueil",
+    "profile": "Profil",
+    "journal": "Journalisation",
+    "meals": "Repas",
+    "logout": "Déconnexion",
+    "logoutAlert": "Êtes-vous sûr de vouloir vous déconnecter ?"
+},
+"UpdateProfile": {
+    "title": "Modifier le mot de passe",
+    "currentPassword": "Mot de passe actuel",
+    "newPassword": "Nouveau mot de passe",
+    "confirmNewPassword": "Confirmer le nouveau mot de passe",
+    "submitButton": "Enregistrer les modifications",
+    "passwordMismatch": "Les mots de passe ne correspondent pas.",
+    "updateSuccess": "Mot de passe mis à jour avec succès !"
+},
+  "ProfileSidebar": {
+    "editPhoto": "Modifier la photo",
+    "deletePhoto": "Supprimer la photo",
+    "changePassword": "Modifier mot de passe",
+    "deleteAccount": "Supprimer mon compte",
+    "logout": "Se déconnecter",
+    "memberSince": "Membre depuis",
+    "logoutAlert": "Vous êtes déconnecté",
+    "confirmDeleteAccount": "Êtes-vous sûr de vouloir supprimer définitivement votre compte ?",
+    "accountDeleted": "Compte supprimé avec succès.",
+    "accountDeleteFailed": "Échec de la suppression du compte.",
+    "accountDeleteError": "Une erreur s'est produite."
+  },
+  "profileTitle": "Mon Profil",
+  "profileSubtitle": "Gérez vos informations personnelles et suivez votre progression.",
+  "personalInfoTitle": "Informations personnelles",
+  "lastName": "Nom",
+  "firstName": "Prénom",
+  "email": "Email",
+  "birthDate": "Date de naissance",
+  "gender": "Sexe",
+  "height": "Taille",
+  "weight": "Poids",
+  "bmi": "IMC",
+  "allergies": "Allergies",
+  "medications": "Médicaments",
+  "editInfo": "Modifier mes informations",
+  "healthGoalsTitle": "Objectifs santé",
+  "addGoal": "Ajouter un objectif",
+  "loading": "Chargement des données IA...",
+  "status": "Complétée",
+  "consultationDu": "Consultation générée par IA du",
+  "motif": "Motif de consultation",
+  "examenClinique": "Examen clinique",
+  "poids": "Poids",
+  "ta": "TA",
+  "glycemie": "Glycémie",
+  "imc": "IMC",
+  "diagnostic": "Diagnostic",
+  "prescription": "Prescription",
+  "conseilsNutritionnelsTitle": "Conseils nutritionnels",
+  "conseilsNutritionnels": [
+    "Augmenter la consommation de fibres à 30g/jour",
+    "Réduire les sucres simples après 17h",
+    "Favoriser les protéines végétales dans 50% des repas"
+  ],
+  "complementsTitle": "Compléments alimentaires",
+  "complements": [
+    "Vitamine B12 : 500 mcg/jour",
+    "Probiotiques : 1 capsule/jour"
+  ],
+  "prochainRDVTitle": "Prochain rendez-vous",
+  "suivi": "Suivi IA et ajustement du plan si nécessaire",
+  
+  "allergiesSection": {
+    "title": "Allergies Alimentaires",
+    "knownAllergies": "Allergies Connues",
+    "none": "Aucune",
+    "allergiesList": {
+      "gluten": "Gluten",
+      "lactose": "Lactose",
+      "fruits_coque": "Fruits à coque",
+      "soja": "Soja",
+      "œufs": "Œufs",
+      "poisson": "Poisson",
+      "crustacés": "Crustacés"
+    }
+  },
+    "goalsSection": {
+    "title": "Objectif Principal",
+    "selectPlaceholder": "Choisir un objectif...",
+    "options": {
+      "perte_de_poids": "Perte de poids",
+      "prise_de_poids": "Prise de masse",
+      "maintien_de_poids": "Maintien du poids"
+    }
+  },
+    "healthFormHero": {
+    "title": "Mon Profil Santé",
+    "description": "Ces informations nous aident à personnaliser vos recommandations nutritionnelles"
+  },
+    "healthSection": {
+    "title": "État de Santé",
+    "medicalConditions": "Conditions Médicales",
+    "none": "En bonne santé",
+    "conditions": {
+      "diabete": "Diabète",
+      "hypertension": "Hypertension",
+      "cholesterol": "Cholestérol",
+      "dyspepsie": "Dyspepsie",
+      "cardiaque": "Cardiaque",
+      "thyroide": "Thyroïde"
+    }
+  },
+    "physicalSection": {
+    "title": "Caractéristiques Physiques",
+    "age": "Âge",
+    "weight": "Poids ",
+    "height": "Taille ",
+    "kg": "kg",
+    "cm": "cm"
+  },
+    "formulaireSante": {
+    "saveButton": "Sauvegarder les Informations",
+    "alertSuccess": "Profil santé enregistré avec succès!"
+  },
+"journalisation": {
+  "titre": "Journalisation Médicale - Conseils Santé",
+  "sousTitre": "Suivi complet de votre santé avec NutriTrack",
+  "historique": "Historique des consultations",
+  "item1": "Suivi mensuel - Bonne observance du régime. Poursuite du programme.",
+  "item2": "Première consultation de suivi - Adaptation du plan nutritionnel.",
+  "item3": "Consultation initiale - Établissement du bilan nutritionnel et prescription du régime."
+},
+"constantes":{
+  "titre": "Mes constantes",
+  "poids": "Poids",
+  "imc": "IMC",
+  "tension": "Tension",
+  "glycemie": "Glycémie",
+  "normal": "Normale",
+  "historique": "Voir l'historique complet"
+},"consultation": {
+    "titre": "Consultation générée par IA du {{date}}",
+    "status": "Complétée",
+    "motif": "Motif de consultation",
+    "examen": "Examen clinique",
+    "poids": "Poids",
+    "tension": "TA",
+    "glycemie": "Glycémie",
+    "imc": "IMC",
+    "diagnostic": "Diagnostic",
+    "prescription": "Prescription",
+    "conseils": "Conseils nutritionnels",
+    "complements": "Compléments alimentaires",
+    "rdv": "Prochain rendez-vous",
+    "suivi": "Suivi IA et ajustement du plan si nécessaire",
+    "chargement": "Chargement des données IA..."
+  },
+  "botHeader": {
+    "status": "En ligne"
+  },
+    "heroNutribot": {
+    "subtitle": "Des conseils personnalisés pour une alimentation saine et équilibrée"
+  },
+  "Posez votre question...": "Posez votre question...",
+  "Envoyer": "Envoyer",
+
+  "iaSuggestion": {
+    "title": "Suggestion de notre IA Nutritionnelle",
+    "description": "Basé sur vos objectifs et vos préférences, voici une idée pour votre dîner ce soir :",
+    "mealName": "Saumon rôti avec asperges et patate douce",
+    "mealInfo": "Environ 450 kcal | Riches en oméga-3 et fibres",
+    "buttons": {
+      "details": "Détails",
+      "addToPlan": "Ajouter à mon plan"
+    }
+  },
+  "NutritionSummary":{
+  "calories": "Calories",
+  "macronutrients": "Macronutriments",
+  "micronutrients": "Micronutriments",
+  "proteins": "Protéines",
+  "carbs": "Glucides",
+  "fats": "Lipides",
+  "fibers": "Fibres",
+  "iron": "Fer",
+  "calcium": "Calcium",
+  "vitaminD": "Vit. D",
+  "ajr": "AJR",
+  "kcal": "kcal"
+  },
+  
+  "tabs": {
+    "breakfast": "Petit-déjeuner",
+    "lunch": "Déjeuner",
+    "dinner": "Dîner",
+    "snacks": "Collations"
+  },
+  "meals": {
+    "breakfast": "Petit-déjeuner",
+    "lunch": "Déjeuner",
+    "dinner": "Dîner",
+    "snacks": "Collations"
+  },
+  "actions": {
+    "addFood": "Ajouter un aliment"
+  },
+  "prompt": {
+    "addIngredient": "Entrez le nom de l'aliment à ajouter :"
+  },
+  "MealCard": {
+    "edit": "Modifier",
+    "delete": "Supprimer",
+    "reuse": "Réutiliser",
+    "ingredients": "Ingrédients",
+    "notes": "Notes",
+    "time": "Heure",
+    "warning": "Avertissement"
+  },
+  "MealHero": {
+    "title": "Mes Repas",
+    "subtitle": "Votre programme nutritionnel personnalisé pour aujourd'hui"
+  }
+
+
+}
+
+
